@@ -1,6 +1,3 @@
-Here is a comprehensive `README.md` file for your Android project, based on the codebase you uploaded. It covers the app's features, tech stack, architecture, and setup instructions.
-
-```markdown
 # ToDo List App 📝
 
 A modern, feature-rich Android ToDo application built with **Kotlin** and **Jetpack Compose**. This app follows the **MVVM architecture** and uses **Room Database** for local data persistence, allowing users to efficiently manage their daily tasks with priorities, sorting, and due dates.
