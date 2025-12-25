@@ -80,9 +80,13 @@ git clone [https://github.com/geeteshvaity/todo-app.git](https://github.com/geet
 
 ## 📸 Screenshots
 
-| Task List | Add Task | Sorting Options |
+| Task List | Add Task | Empty Task Screen | Sort Options |
 | --- | --- | --- |
-| *(Add screenshot here)* | *(Add screenshot here)* | *(Add screenshot here)* |
+| ![WhatsApp Image 2025-12-26 at 12 31 38 AM (1)](https://github.com/user-attachments/assets/98e0f302-e23f-4366-a198-77905536f467)
+ | ![WhatsApp Image 2025-12-26 at 12 32 15 AM](https://github.com/user-attachments/assets/00440b1d-05df-4af9-81f2-a8b1d6dce00a)
+ | ![WhatsApp Image 2025-12-26 at 12 31 39 AM](https://github.com/user-attachments/assets/61cfbd56-6c14-43c1-a418-575ffb6033bb)
+ | ![WhatsApp Image 2025-12-26 at 12 31 38 AM](https://github.com/user-attachments/assets/b7aa8a7f-3b9b-4e96-95e5-1c57b0124e1f)
+ |
 
 ## 🤝 Contributing
 
@@ -97,12 +101,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
-
-```
-
-### **How to use this file:**
-1.  Create a file named `README.md` in the root directory of your project (where `build.gradle.kts` and `settings.gradle.kts` are located).
-2.  Paste the content above into that file.
-3.  (Optional) Take screenshots of your running app and replace the `*(Add screenshot here)*` placeholders with actual image paths if you host them on GitHub.
 
 ```
